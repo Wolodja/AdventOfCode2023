@@ -1,9 +1,9 @@
 package day2;
 
 public class Draw {
-    int blueAmount;
-    int greenAmount;
-    int redAmount;
+    private int blueAmount;
+    private int greenAmount;
+    private int redAmount;
 
     public int getBlueAmount() {
         return blueAmount;
